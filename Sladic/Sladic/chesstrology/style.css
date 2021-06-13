@@ -1,0 +1,74 @@
+/*stiliziranje*/
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    width:100%;
+
+}
+
+
+
+.logo { 
+    max-width: 200px;
+    height: 80px;
+    margin: auto;
+    padding-top: 10px;
+}
+.logo img {
+    max-width: 100%;
+    float: left;
+}
+
+nav *{
+    font-size: 1.25rem;
+}
+
+
+.naslov h2 {
+    text-transform: uppercase;
+    padding:2rem 0;
+}
+
+.card-title a{
+    text-decoration: none;
+    color:black;
+    font-size: 1.5rem;
+}
+
+
+.form-group{
+    padding:1.5rem 0;
+}
+
+label{
+    font-size: 1.25rem;
+}
+
+.btn{
+    font-size: 1.25rem;
+
+}
+
+
+.btn a{
+    text-decoration:none;
+    color: black;
+}
+
+
+
+h4 {
+    margin: 5px 5px;
+}
+
+footer {
+    max-width: 100%; 
+    background-color: #ededed;
+    height: 80px;
+}
+
+  

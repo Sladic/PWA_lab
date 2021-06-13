@@ -1,0 +1,3 @@
+username: da
+pass: da
+Uploadaj bazu podataka i moze se pokrenuti s localhostom
